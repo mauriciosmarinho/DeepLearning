@@ -1,0 +1,79 @@
+{
+  "processo": {
+    "numero": "0001093-03.2017.8.10.0081",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=b18c3c9f8117dde1355ce6a9f3ef1f034d57a03ed2a1323a",
+    "timestamp": "2025-12-04 21:13:50"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "16/10/2025 16:16:18",
+      "tipo": "Ata da Audiência (Ata de audiência com despacho, decisão ou sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=6d47d8034f5619681a0853cd45f96d102c35f3b894d982e89868a5b237ce2ddbf1eb173259c875be9cec93dda241a75ead52b1de8d6a7368&idProcessoDoc=163262968",
+      "eh_sentenca": true,
+      "eh_decisao": true,
+      "arquivo_local": "sentencas_tjma\\pdfs\\00010930320178100081_000_16-10-2025_16-16-18_Ata da Audiência.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "30/09/2025 14:14:28",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=2436ccf633d0dd541cf732b3aab6cebb2c35f3b894d982e89868a5b237ce2ddbf1eb173259c875be9cec93dda241a75ead52b1de8d6a7368&idProcessoDoc=161763141",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "26/08/2025 14:37:46",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=4f05514c1b3565061cf732b3aab6cebb2c35f3b894d982e89868a5b237ce2ddbf1eb173259c875be9cec93dda241a75ead52b1de8d6a7368&idProcessoDoc=158415947",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 3,
+      "data_hora": "19/03/2025 16:57:20",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=aee943d43bed12e8e4683348024b31032c35f3b894d982e89868a5b237ce2ddbf1eb173259c875be9cec93dda241a75ead52b1de8d6a7368&idProcessoDoc=143857204",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "26/10/2023 10:36:31",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ad5eb89d37d8c0789583f0a443ddf21cf1e95da8823392c907a4a6fe9383e4c7c3cbf5e3c826e546d4edaf57ca7a11cc262024f1606651ce&idProcessoDoc=104574116",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "14/02/2023 18:30:00",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=941480aaaae9336a9583f0a443ddf21cf1e95da8823392c907a4a6fe9383e4c7c3cbf5e3c826e546d4edaf57ca7a11cc262024f1606651ce&idProcessoDoc=85763383",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "14/01/2021 11:22:58",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=74c4331abcacc89d9583f0a443ddf21cf1e95da8823392c907a4a6fe9383e4c7c3cbf5e3c826e546d4edaf57ca7a11cc262024f1606651ce&idProcessoDoc=39819025",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "28/04/2020 10:57:10",
+      "tipo": "Termo de Migração (Termo de Migração)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=92e8f25721cfc8829583f0a443ddf21cf1e95da8823392c907a4a6fe9383e4c7c3cbf5e3c826e546d4edaf57ca7a11cc262024f1606651ce&idProcessoDoc=30494023",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\00010930320178100081_000_16-10-2025_16-16-18_Ata da Audiência.html"
+  ],
+  "total_documentos": 8,
+  "total_baixados": 1
+}

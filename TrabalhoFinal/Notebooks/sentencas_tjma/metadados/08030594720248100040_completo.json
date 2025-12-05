@@ -1,0 +1,47 @@
+{
+  "processo": {
+    "numero": "0803059-47.2024.8.10.0040",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=f1f1ad57942a6040f2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 01:01:09"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "25/07/2025 16:42:12",
+      "tipo": "Ementa (Ementa)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=49749856af2a917b68d268b0ff31851f6d8b2d48c52824b239a4dbd1229e9e7e68142715f4c1515b51b193e42a507ed5b87c68012514d67e&idProcessoDoc=158349171",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 1,
+      "data_hora": "25/07/2025 16:42:09",
+      "tipo": "Ementa (Ementa)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=49749856af2a917b72e42badaacae7356d8b2d48c52824b239a4dbd1229e9e7e68142715f4c1515b51b193e42a507ed5b87c68012514d67e&idProcessoDoc=158349169",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "24/06/2024 14:58:04",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=55334a42a9e33eb51635be007a4aa1866d8b2d48c52824b239a4dbd1229e9e7e68142715f4c1515b51b193e42a507ed5b87c68012514d67e&idProcessoDoc=158349165",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "02/05/2024 17:07:41",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=888eb35a7fb2d09cf9f2784ec73d3b986d8b2d48c52824b239a4dbd1229e9e7e68142715f4c1515b51b193e42a507ed5b87c68012514d67e&idProcessoDoc=118278339",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08030594720248100040_003_02-05-2024_17-07-41_Sentença.html"
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08030594720248100040_003_02-05-2024_17-07-41_Sentença.html"
+  ],
+  "total_documentos": 4,
+  "total_baixados": 1
+}

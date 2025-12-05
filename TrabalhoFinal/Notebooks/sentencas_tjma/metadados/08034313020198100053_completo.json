@@ -1,0 +1,119 @@
+{
+  "processo": {
+    "numero": "0803431-30.2019.8.10.0053",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=129f66522b5cc7a4f2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 01:09:00"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "29/05/2025 15:31:34",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=3cd4705a69e76ec9aff118e1f7c3c66874fba6fa07e4e9988cbe2e438ce57187a812042419ffbaaad3a8a7347aae5fc0805effdae95de3fb&idProcessoDoc=150070771",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08034313020198100053_000_29-05-2025_15-31-34_Sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "26/05/2025 11:48:08",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=1f814cd756c6ee9dacdf66af6b952fa674fba6fa07e4e9988cbe2e438ce57187a812042419ffbaaad3a8a7347aae5fc0805effdae95de3fb&idProcessoDoc=149681353",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "24/01/2025 00:54:36",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=5d2ce4af75dc296caff118e1f7c3c66874fba6fa07e4e9988cbe2e438ce57187a812042419ffbaaad3a8a7347aae5fc0805effdae95de3fb&idProcessoDoc=139091952",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "08/09/2024 11:53:31",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=cf583d091391b337a51902fa2d1e74c174fba6fa07e4e9988cbe2e438ce57187a812042419ffbaaad3a8a7347aae5fc0805effdae95de3fb&idProcessoDoc=128407869",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "28/02/2024 15:53:31",
+      "tipo": "Ata da Audiência (Ata da Audiência)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=5fb89c9c41de0ff06d15690ca8cb1af074fba6fa07e4e9988cbe2e438ce57187a812042419ffbaaad3a8a7347aae5fc0805effdae95de3fb&idProcessoDoc=113172806",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "24/09/2023 22:01:55",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=2d4661dfe04a7ffa2c3122804e90ba98151a6938b5d6db70d3e35de40d3a636d93a2888c0322592e2c4a615fa809f33b33d4d9ef4e5c7e8f&idProcessoDoc=86865539",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "15/08/2022 10:37:45",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=60f362783ec7d5812c3122804e90ba98151a6938b5d6db70d3e35de40d3a636d93a2888c0322592e2c4a615fa809f33b33d4d9ef4e5c7e8f&idProcessoDoc=73661151",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "30/05/2022 15:01:36",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=df9dea2ccfa11fc32c3122804e90ba98151a6938b5d6db70d3e35de40d3a636d93a2888c0322592e2c4a615fa809f33b33d4d9ef4e5c7e8f&idProcessoDoc=67798382",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 8,
+      "data_hora": "15/10/2021 16:02:50",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=8421a7fa2fb2c60d2c3122804e90ba98151a6938b5d6db70d3e35de40d3a636d93a2888c0322592e2c4a615fa809f33b33d4d9ef4e5c7e8f&idProcessoDoc=54522929",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 9,
+      "data_hora": "29/03/2021 14:20:51",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=365f903eaa479f3f2c3122804e90ba98151a6938b5d6db70d3e35de40d3a636d93a2888c0322592e2c4a615fa809f33b33d4d9ef4e5c7e8f&idProcessoDoc=43280665",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 10,
+      "data_hora": "17/12/2020 17:49:30",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=70e4b6678e643ae72c3122804e90ba98151a6938b5d6db70d3e35de40d3a636d93a2888c0322592e2c4a615fa809f33b33d4d9ef4e5c7e8f&idProcessoDoc=39374183",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 11,
+      "data_hora": "14/08/2020 15:26:14",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=d1b8d10f1caea18a2c3122804e90ba98151a6938b5d6db70d3e35de40d3a636d93a2888c0322592e2c4a615fa809f33b33d4d9ef4e5c7e8f&idProcessoDoc=34402306",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 12,
+      "data_hora": "09/12/2019 15:21:31",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=f49eeda07c515aad2c3122804e90ba98151a6938b5d6db70d3e35de40d3a636d93a2888c0322592e2c4a615fa809f33b33d4d9ef4e5c7e8f&idProcessoDoc=26374607",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08034313020198100053_000_29-05-2025_15-31-34_Sentença.html"
+  ],
+  "total_documentos": 13,
+  "total_baixados": 1
+}

@@ -1,0 +1,71 @@
+{
+  "processo": {
+    "numero": "0003031-43.2013.8.10.0026",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=863a29b29f035893355ce6a9f3ef1f034d57a03ed2a1323a",
+    "timestamp": "2025-12-04 21:53:20"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "22/07/2024 15:02:36",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=e87d09755b6ee7f5508cb18adbbe54bff74d65729749242a8f4fdcd813dfa1c7aca1094aeb8a45ac9c69c0427fbc19b24681cbde45f38ced&idProcessoDoc=123838994",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\00030314320138100026_000_22-07-2024_15-02-36_Sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "15/03/2024 15:50:16",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=416bbc5b3381313781890f49b2902b87f74d65729749242a8f4fdcd813dfa1c7aca1094aeb8a45ac9c69c0427fbc19b24681cbde45f38ced&idProcessoDoc=114444576",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "24/04/2023 17:10:29",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=97f835cdc3b56e792dbcc48bc35f0861750cb5ba75529de03fb55944abc48c21d86e086180662db70457664da204c2b6bfd076613ea7c400&idProcessoDoc=90652416",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "24/01/2023 18:43:02",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=658e4001de494ac42dbcc48bc35f0861750cb5ba75529de03fb55944abc48c21d86e086180662db70457664da204c2b6bfd076613ea7c400&idProcessoDoc=84187960",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "11/01/2022 19:55:49",
+      "tipo": "Despacho (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=6ea9a5bb8d55de332dbcc48bc35f0861750cb5ba75529de03fb55944abc48c21d86e086180662db70457664da204c2b6bfd076613ea7c400&idProcessoDoc=58727778",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 5,
+      "data_hora": "17/10/2021 12:17:32",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=eb3141ed0dba03442dbcc48bc35f0861750cb5ba75529de03fb55944abc48c21d86e086180662db70457664da204c2b6bfd076613ea7c400&idProcessoDoc=54559380",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "21/06/2021 19:00:39",
+      "tipo": "Termo de Migração (Termo de Migração)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=fbb3b7901f7bd8d32dbcc48bc35f0861750cb5ba75529de03fb55944abc48c21d86e086180662db70457664da204c2b6bfd076613ea7c400&idProcessoDoc=47741645",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\00030314320138100026_000_22-07-2024_15-02-36_Sentença.html"
+  ],
+  "total_documentos": 7,
+  "total_baixados": 1
+}

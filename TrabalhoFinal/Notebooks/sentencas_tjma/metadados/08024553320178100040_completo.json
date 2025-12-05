@@ -1,0 +1,75 @@
+{
+  "processo": {
+    "numero": "0802455-33.2017.8.10.0040",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=502e1e7d4913fee310068274f1a29f427fdbaa041889d37b",
+    "timestamp": "2025-12-05 00:38:07"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "12/03/2024 14:53:27",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=88790441f0ff941827ee70827c4b6ce9863677e377124b20f10e429268dd775e7eab617bfdb5abace2eb2359b3fccbeb690a6c12f2c48498&idProcessoDoc=114310451",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08024553320178100040_000_12-03-2024_14-53-27_Sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "25/01/2024 08:52:26",
+      "tipo": "Ata de audiência com despacho, decisão ou sentença (Ata de audiência com despacho, decisão ou sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=034669975561f548eccd084099108c04863677e377124b20f10e429268dd775e7eab617bfdb5abace2eb2359b3fccbeb690a6c12f2c48498&idProcessoDoc=110433460",
+      "eh_sentenca": true,
+      "eh_decisao": true,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08024553320178100040_001_25-01-2024_08-52-26_Ata de audiência com despacho, decisão ou sentença.html"
+    },
+    {
+      "id": 2,
+      "data_hora": "21/11/2023 09:50:41",
+      "tipo": "Ata de audiência com despacho, decisão ou sentença (Ata de audiência com despacho, decisão ou sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=94e9a0de701655e3c5afe30b0f6cf47db5a0fc643aea65f88fba7ae56180e934bd13bc7f19b75b2e368bba7722042b568a06dd1a974719d8&idProcessoDoc=106779669",
+      "eh_sentenca": true,
+      "eh_decisao": true,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08024553320178100040_002_21-11-2023_09-50-41_Ata de audiência com despacho, decisão ou sentença.html"
+    },
+    {
+      "id": 3,
+      "data_hora": "25/09/2023 22:53:46",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=a79b99b9b46a80f0c5afe30b0f6cf47db5a0fc643aea65f88fba7ae56180e934bd13bc7f19b75b2e368bba7722042b568a06dd1a974719d8&idProcessoDoc=102330921",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "24/01/2023 10:33:33",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=0496508c9e234b8dc5afe30b0f6cf47db5a0fc643aea65f88fba7ae56180e934bd13bc7f19b75b2e368bba7722042b568a06dd1a974719d8&idProcessoDoc=84122043",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 5,
+      "data_hora": "22/06/2020 18:21:37",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=d4b557767db8cd57c5afe30b0f6cf47db5a0fc643aea65f88fba7ae56180e934bd13bc7f19b75b2e368bba7722042b568a06dd1a974719d8&idProcessoDoc=32223168",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "18/04/2017 11:30:35",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=3040a1b7cadfc7a457e5b5da3b8292172ddcde848ec74f52c1c13cef39219e5839d516b858fa173f1ee0b428c6509964211570214b705186&idProcessoDoc=5385268",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08024553320178100040_000_12-03-2024_14-53-27_Sentença.html",
+    "sentencas_tjma\\pdfs\\08024553320178100040_001_25-01-2024_08-52-26_Ata de audiência com despacho, decisão ou sentença.html",
+    "sentencas_tjma\\pdfs\\08024553320178100040_002_21-11-2023_09-50-41_Ata de audiência com despacho, decisão ou sentença.html"
+  ],
+  "total_documentos": 7,
+  "total_baixados": 3
+}

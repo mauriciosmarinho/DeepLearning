@@ -1,0 +1,63 @@
+{
+  "processo": {
+    "numero": "0800342-75.2021.8.10.0102",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=c1bd8a5c4ecd726f355ce6a9f3ef1f034d57a03ed2a1323a",
+    "timestamp": "2025-12-04 22:38:35"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "28/06/2025 17:56:13",
+      "tipo": "sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=e49a9ef3d6d6b7894803e69326906855712dc468bff2e642e50b4affd8045015f936594773f5ca67c0887c34e81ef2b35f6f35a3090b515e&idProcessoDoc=152573685",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08003427520218100102_000_28-06-2025_17-56-13_sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "21/10/2024 14:49:39",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=50232f5ec5ca93cec0b10bd5f92dc764712dc468bff2e642e50b4affd8045015f936594773f5ca67c0887c34e81ef2b35f6f35a3090b515e&idProcessoDoc=132178169",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "21/02/2024 00:01:28",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=a11b9d229b0dc7d14803e69326906855712dc468bff2e642e50b4affd8045015f936594773f5ca67c0887c34e81ef2b35f6f35a3090b515e&idProcessoDoc=112554886",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "25/08/2023 11:28:13",
+      "tipo": "MANDADO DEVOLVIDO SEM CUMPRIMENTO (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=2e1b88fa33aa948c83976ac39e53b9795a0653a07f87f796c1ea76a4706a8c579c9841150cc3fbd4aa11ff3cc9e27920262024f1606651ce&idProcessoDoc=100005781",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "25/05/2023 13:13:33",
+      "tipo": "MANDADO DEVOLVIDO SEM CUMPRIMENTO (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=f7d26d432a3ecfea83976ac39e53b9795a0653a07f87f796c1ea76a4706a8c579c9841150cc3fbd4aa11ff3cc9e27920262024f1606651ce&idProcessoDoc=93149507",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "22/03/2021 18:24:40",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=6d7c3623db8882ab83976ac39e53b9795a0653a07f87f796c1ea76a4706a8c579c9841150cc3fbd4aa11ff3cc9e27920262024f1606651ce&idProcessoDoc=42942865",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08003427520218100102_000_28-06-2025_17-56-13_sentença.html"
+  ],
+  "total_documentos": 6,
+  "total_baixados": 1
+}

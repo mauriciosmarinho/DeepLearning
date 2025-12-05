@@ -1,0 +1,47 @@
+{
+  "processo": {
+    "numero": "0801049-51.2021.8.10.0067",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=cbca2a42d4312032355ce6a9f3ef1f034d57a03ed2a1323a",
+    "timestamp": "2025-12-04 23:27:01"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "20/03/2025 10:03:43",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=c21b610a8802d0c8eec12a364327742e0fc9fb280f2bc18c2a88dba00a6cebe0661b08ce532407998dfe522fb986caa0709fa203af1b1aca&idProcessoDoc=143904147",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 1,
+      "data_hora": "11/02/2025 23:29:44",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=6cfe0ac840184e18f3753fbec61f2f0c0fc9fb280f2bc18c2a88dba00a6cebe0661b08ce532407998dfe522fb986caa0709fa203af1b1aca&idProcessoDoc=140941124",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08010495120218100067_001_11-02-2025_23-29-44_Sentença.html"
+    },
+    {
+      "id": 2,
+      "data_hora": "28/08/2024 18:22:15",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=44a2fbe1d22f40cf8f49028379bb44450fc9fb280f2bc18c2a88dba00a6cebe0661b08ce532407998dfe522fb986caa0709fa203af1b1aca&idProcessoDoc=127800975",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "04/10/2022 12:17:28",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=cfc77168324bf189983d5347820f8a259aa89bb8dfb5c1eb8f934ca1f64d3da964869f6cc3bc0c846bde3c9a8e091dc724f0717cfcd5986b&idProcessoDoc=77595499",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08010495120218100067_001_11-02-2025_23-29-44_Sentença.html"
+  ],
+  "total_documentos": 4,
+  "total_baixados": 1
+}

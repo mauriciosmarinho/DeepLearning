@@ -1,0 +1,81 @@
+{
+  "processo": {
+    "numero": "0002413-93.2016.8.10.0026",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=7b254bfb9c16f314355ce6a9f3ef1f034d57a03ed2a1323a",
+    "timestamp": "2025-12-04 21:46:43"
+  },
+  "documentos": [
+    {
+      "id": 1,
+      "data_hora": "19/08/2024 23:53:30",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=d62e217a4673b65f1aecdc703c80c50124164e3ec41361410797748b81a06248d2baf0647d05e7730d935e2bcb6bed25e46cb81995ec7d70&idProcessoDoc=127077647",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\00024139320168100026_001_19-08-2024_23-53-30_Sentença.html"
+    },
+    {
+      "id": 2,
+      "data_hora": "18/03/2024 15:55:02",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=2d672fab88646c7a4888886128c8adb224164e3ec41361410797748b81a06248d2baf0647d05e7730d935e2bcb6bed25e46cb81995ec7d70&idProcessoDoc=114782000",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "18/01/2024 02:17:17",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=1a7999f709ec42b24888886128c8adb224164e3ec41361410797748b81a06248d2baf0647d05e7730d935e2bcb6bed25e46cb81995ec7d70&idProcessoDoc=110015301",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "13/04/2023 10:27:31",
+      "tipo": "Ata da Audiência (Ata de audiência com despacho, decisão ou sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=c8b11a69f27a03794d180f80daa1127877f71c65d673b8a2516a690020f98846b18185363fd0a97c42e773bc2e173dd9fe93805d0aa74759&idProcessoDoc=89791851",
+      "eh_sentenca": true,
+      "eh_decisao": true,
+      "arquivo_local": "sentencas_tjma\\pdfs\\00024139320168100026_004_13-04-2023_10-27-31_Ata da Audiência.html"
+    },
+    {
+      "id": 5,
+      "data_hora": "01/02/2023 12:22:50",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ef3dab042a1b2d184d180f80daa1127877f71c65d673b8a2516a690020f98846b18185363fd0a97c42e773bc2e173dd9fe93805d0aa74759&idProcessoDoc=84752638",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "18/08/2022 17:48:56",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=b0474011ecf0d0624d180f80daa1127877f71c65d673b8a2516a690020f98846b18185363fd0a97c42e773bc2e173dd9fe93805d0aa74759&idProcessoDoc=74042664",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "07/02/2022 16:13:43",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=f8a272ace43723ce4d180f80daa1127877f71c65d673b8a2516a690020f98846b18185363fd0a97c42e773bc2e173dd9fe93805d0aa74759&idProcessoDoc=60375270",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 8,
+      "data_hora": "06/08/2021 08:47:10",
+      "tipo": "Termo de Migração (Termo de Migração)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=e6caf57f5634e3b84d180f80daa1127877f71c65d673b8a2516a690020f98846b18185363fd0a97c42e773bc2e173dd9fe93805d0aa74759&idProcessoDoc=50310355",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\00024139320168100026_001_19-08-2024_23-53-30_Sentença.html",
+    "sentencas_tjma\\pdfs\\00024139320168100026_004_13-04-2023_10-27-31_Ata da Audiência.html"
+  ],
+  "total_documentos": 8,
+  "total_baixados": 2
+}

@@ -1,0 +1,81 @@
+{
+  "processo": {
+    "numero": "0001403-09.2017.8.10.0081",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=af002627711ae62e355ce6a9f3ef1f034d57a03ed2a1323a",
+    "timestamp": "2025-12-04 21:30:15"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "08/05/2024 17:02:42",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=b44864ed42f3fef29a53401f0cc08ff1b845aa7fc32e85cc360aa66abeca642dbb4f5456501c7930cf3a51bbbd89b9e9535e6c0632586504&idProcessoDoc=118792039",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\00014030920178100081_000_08-05-2024_17-02-42_Sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "03/04/2024 17:47:25",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=14b2b3a4416b14edac6b087c2d79495bb845aa7fc32e85cc360aa66abeca642dbb4f5456501c7930cf3a51bbbd89b9e9535e6c0632586504&idProcessoDoc=115964101",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "19/02/2024 08:40:15",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=5b4af9b7bb4d20fd4cd704641d7bd5aab845aa7fc32e85cc360aa66abeca642dbb4f5456501c7930cf3a51bbbd89b9e9535e6c0632586504&idProcessoDoc=112230529",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "31/05/2022 16:49:03",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=3d7700f93ef953ee76b06d3519195bf75f7e8811805fbb93ded9b19a59582cc53b906ca2c99c9673626d5f0b2f02ad5edcbf5d00c8322fe5&idProcessoDoc=68166977",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\00014030920178100081_003_31-05-2022_16-49-03_Sentença.html"
+    },
+    {
+      "id": 4,
+      "data_hora": "24/05/2022 09:38:20",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=867354a0afa8b04876b06d3519195bf75f7e8811805fbb93ded9b19a59582cc53b906ca2c99c9673626d5f0b2f02ad5edcbf5d00c8322fe5&idProcessoDoc=67565407",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "28/04/2022 17:26:42",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=478660fa1a9422d576b06d3519195bf75f7e8811805fbb93ded9b19a59582cc53b906ca2c99c9673626d5f0b2f02ad5edcbf5d00c8322fe5&idProcessoDoc=65713803",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "13/01/2021 14:36:04",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=0958ad26be0111ff76b06d3519195bf75f7e8811805fbb93ded9b19a59582cc53b906ca2c99c9673626d5f0b2f02ad5edcbf5d00c8322fe5&idProcessoDoc=39785151",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "23/03/2020 15:55:19",
+      "tipo": "Termo de Migração (Termo de Migração)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=51b11bf8bf8f80a776b06d3519195bf75f7e8811805fbb93ded9b19a59582cc53b906ca2c99c9673626d5f0b2f02ad5edcbf5d00c8322fe5&idProcessoDoc=29504585",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\00014030920178100081_000_08-05-2024_17-02-42_Sentença.html",
+    "sentencas_tjma\\pdfs\\00014030920178100081_003_31-05-2022_16-49-03_Sentença.html"
+  ],
+  "total_documentos": 8,
+  "total_baixados": 2
+}

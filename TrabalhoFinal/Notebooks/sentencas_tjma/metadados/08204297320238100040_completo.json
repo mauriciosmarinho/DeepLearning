@@ -1,0 +1,79 @@
+{
+  "processo": {
+    "numero": "0820429-73.2023.8.10.0040",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=54356e3b25bd9483f2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 02:51:28"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "23/01/2025 17:30:55",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=084ed9b074dbde5a72ce3b23ae4e31ddd61ed6b1cc546504e998c52b535519fe7b3bcb37549be30358286ba1288bfd293c843cb0129bcc65&idProcessoDoc=139189823",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08204297320238100040_000_23-01-2025_17-30-55_Sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "25/11/2024 19:38:38",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=53b973d7cb02f245e5f98308ff65a3b3d61ed6b1cc546504e998c52b535519fe7b3bcb37549be30358286ba1288bfd293c843cb0129bcc65&idProcessoDoc=135447555",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "14/11/2024 15:41:53",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=cb44e3607a88d568ed5f35f468dbc397d61ed6b1cc546504e998c52b535519fe7b3bcb37549be30358286ba1288bfd293c843cb0129bcc65&idProcessoDoc=134697104",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "30/07/2024 11:59:05",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=2632ba595b0cefdadf7db53e6b23f969d61ed6b1cc546504e998c52b535519fe7b3bcb37549be30358286ba1288bfd293c843cb0129bcc65&idProcessoDoc=125323211",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "08/01/2024 20:25:36",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=e3d2087cafe3db1cdfa9478881765549d61ed6b1cc546504e998c52b535519fe7b3bcb37549be30358286ba1288bfd293c843cb0129bcc65&idProcessoDoc=109413945",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "12/12/2023 09:56:01",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=50f72813b4036ab572ce3b23ae4e31ddd61ed6b1cc546504e998c52b535519fe7b3bcb37549be30358286ba1288bfd293c843cb0129bcc65&idProcessoDoc=108225494",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "11/09/2023 15:31:01",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=1af939e8e9f3e1973ec76cdcae741a7d753fd4759a228d045fc88c8d4ace09b4b4bb272cbebd220416183fe19b316fb0bfd076613ea7c400&idProcessoDoc=101129543",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "01/09/2023 08:12:31",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=02b0957fa29450963ec76cdcae741a7d753fd4759a228d045fc88c8d4ace09b4b4bb272cbebd220416183fe19b316fb0bfd076613ea7c400&idProcessoDoc=100437064",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08204297320238100040_000_23-01-2025_17-30-55_Sentença.html"
+  ],
+  "total_documentos": 8,
+  "total_baixados": 1
+}

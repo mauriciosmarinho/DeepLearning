@@ -1,0 +1,71 @@
+{
+  "processo": {
+    "numero": "0802774-78.2019.8.10.0024",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=c473929d215979abf2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 00:53:20"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "07/02/2025 05:20:26",
+      "tipo": "Não intimação do requerente (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=88ebaedec4d02d7311a5e542afe70107e88b4fc322e395ebad824e4de6dcc7247c5d8b6c8d87689d0a8aeaa9a2f81b862100b17bac2d9eb0&idProcessoDoc=140626841",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 1,
+      "data_hora": "29/01/2025 10:58:05",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=3fa975cab57a2e996c4e95c5ceab4da1e88b4fc322e395ebad824e4de6dcc7247c5d8b6c8d87689d0a8aeaa9a2f81b862100b17bac2d9eb0&idProcessoDoc=139474031",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08027747820198100024_001_29-01-2025_10-58-05_Sentença.html"
+    },
+    {
+      "id": 2,
+      "data_hora": "11/11/2024 19:24:40",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=c1cd695913b756ea7fe6b3ac8a3fba30e88b4fc322e395ebad824e4de6dcc7247c5d8b6c8d87689d0a8aeaa9a2f81b862100b17bac2d9eb0&idProcessoDoc=133894226",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "06/02/2024 16:17:14",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=de08a8ca50d21ea911a5e542afe70107e88b4fc322e395ebad824e4de6dcc7247c5d8b6c8d87689d0a8aeaa9a2f81b862100b17bac2d9eb0&idProcessoDoc=111315676",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 4,
+      "data_hora": "22/08/2023 20:14:42",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=58624ea3374ce9580829c3aa5e08623ef3b8170441b3c4fcc5f4710d91bf9ec83d533c4cfd40f63420ff519cce827e8a875b183d198aa192&idProcessoDoc=99735174",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "05/03/2020 15:58:21",
+      "tipo": "Ata da Audiência (Ata da Audiência)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=b32b5dd080edb2260829c3aa5e08623ef3b8170441b3c4fcc5f4710d91bf9ec83d533c4cfd40f63420ff519cce827e8a875b183d198aa192&idProcessoDoc=28854309",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "15/01/2020 15:09:44",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=639a47b8a4adc4850829c3aa5e08623ef3b8170441b3c4fcc5f4710d91bf9ec83d533c4cfd40f63420ff519cce827e8a875b183d198aa192&idProcessoDoc=25700702",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08027747820198100024_001_29-01-2025_10-58-05_Sentença.html"
+  ],
+  "total_documentos": 7,
+  "total_baixados": 1
+}

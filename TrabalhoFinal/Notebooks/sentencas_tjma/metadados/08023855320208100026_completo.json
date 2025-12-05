@@ -1,0 +1,137 @@
+{
+  "processo": {
+    "numero": "0802385-53.2020.8.10.0026",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=c8ae84578eff6630f2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 00:29:58"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "27/05/2025 09:25:27",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=e23f14126e363c86baeaec041d7b30181bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=149461385",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 1,
+      "data_hora": "04/04/2025 09:40:41",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=2dc3dd331b9d6d19a4c6e05a312b9fe01bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=145444113",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08023855320208100026_001_04-04-2025_09-40-41_Sentença.html"
+    },
+    {
+      "id": 2,
+      "data_hora": "04/02/2025 15:44:44",
+      "tipo": "Ata da Audiência (Ata de audiência com despacho, decisão ou sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=1d5d99d46aa1a59c4b58eded0557c08d1bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=140125361",
+      "eh_sentenca": true,
+      "eh_decisao": true,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08023855320208100026_002_04-02-2025_15-44-44_Ata da Audiência.html"
+    },
+    {
+      "id": 3,
+      "data_hora": "01/10/2024 08:58:24",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=383349c4b5051d0d4b58eded0557c08d1bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=130784976",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "12/09/2024 18:30:32",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=dac10b9d7cca10afa4c6e05a312b9fe01bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=129235065",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "07/09/2024 08:05:08",
+      "tipo": "ANTONIO CARLOS SILVA (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ceb7141406875f253d826637f2eea3941bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=128748604",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "30/08/2024 18:42:17",
+      "tipo": "Intimação positiva do requerente: ANTONIO JAMES BARROS DOS SANTOS (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=8716bc7d85f07147318005b24e86c1911bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=128132830",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "30/08/2024 08:35:53",
+      "tipo": "ADERSON SANTOS DO NASCIMENTO (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=609c6fdbb8e2f1e84958f37d44e52d561bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=128042946",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 8,
+      "data_hora": "20/08/2024 13:17:48",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=d685820cd88b9de23d826637f2eea3941bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=127090307",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 9,
+      "data_hora": "19/08/2024 11:13:49",
+      "tipo": "ANTONIO JAMES BARROS DOS SANTOS (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=b6f59c65d5dc06834958f37d44e52d561bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=126986316",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 10,
+      "data_hora": "29/07/2024 09:21:36",
+      "tipo": "JOSÉ CHAVES EVANGESLISTA JUNIOR (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=05ab51aa4346eb1f4958f37d44e52d561bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=125200318",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 11,
+      "data_hora": "29/07/2024 09:18:55",
+      "tipo": "ANTONIO CARLOS SILVA (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=4d1c741ca90c5f7a318005b24e86c1911bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=125200300",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 12,
+      "data_hora": "24/07/2024 11:13:45",
+      "tipo": "ADERSON SANTOS DO NASCIMENTO (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=7c3420a8cb1880924b58eded0557c08d1bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=124887589",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 13,
+      "data_hora": "24/07/2024 11:06:11",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ee26a43f42aa64854b58eded0557c08d1bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=124884450",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 14,
+      "data_hora": "22/07/2024 15:00:00",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=acdff897b65882f3318005b24e86c1911bc901a134677d594e0b94ccdc083d2c8670f1987b01b51f2653ba3e2d507d438bf220d715a157ab&idProcessoDoc=124490647",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08023855320208100026_001_04-04-2025_09-40-41_Sentença.html",
+    "sentencas_tjma\\pdfs\\08023855320208100026_002_04-02-2025_15-44-44_Ata da Audiência.html"
+  ],
+  "total_documentos": 15,
+  "total_baixados": 2
+}

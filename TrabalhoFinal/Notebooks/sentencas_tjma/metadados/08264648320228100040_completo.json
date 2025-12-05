@@ -1,0 +1,95 @@
+{
+  "processo": {
+    "numero": "0826464-83.2022.8.10.0040",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=08f363603e0827b6f2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 02:59:22"
+  },
+  "documentos": [
+    {
+      "id": 2,
+      "data_hora": "07/03/2025 17:42:38",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=5ef8b476bd1fe72cf812a607a94e182b92ddcafb448cf2bf2824ff08d854362941109fa37455b768b851f501e0e3515e52a1f468e5e44582&idProcessoDoc=142752527",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08264648320228100040_002_07-03-2025_17-42-38_Sentença.html"
+    },
+    {
+      "id": 3,
+      "data_hora": "21/01/2025 15:40:52",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=d1485256833b03cb08f2d481def6a51492ddcafb448cf2bf2824ff08d854362941109fa37455b768b851f501e0e3515e52a1f468e5e44582&idProcessoDoc=138247953",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "15/08/2024 17:37:55",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ba28b0036cf7805886f10fd0a1e46c0f92ddcafb448cf2bf2824ff08d854362941109fa37455b768b851f501e0e3515e52a1f468e5e44582&idProcessoDoc=126801491",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "15/04/2024 19:16:07",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=bf1be4553dfa16ee12850222e397ec5e92ddcafb448cf2bf2824ff08d854362941109fa37455b768b851f501e0e3515e52a1f468e5e44582&idProcessoDoc=116792973",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "02/02/2024 15:44:09",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=fd21bd3c764d18d48f810200e3fd9cd292ddcafb448cf2bf2824ff08d854362941109fa37455b768b851f501e0e3515e52a1f468e5e44582&idProcessoDoc=111184556",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "14/08/2023 09:26:02",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=9897bda45d054bfca3535968d05b05bd16f79c43ffe1e901a46f1f03b3f5b5309c9e901a7dea1c019c1404661fef558092ac3a5ee9376daf&idProcessoDoc=98991363",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 8,
+      "data_hora": "03/08/2023 12:19:29",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=a867e61821932757a3535968d05b05bd16f79c43ffe1e901a46f1f03b3f5b5309c9e901a7dea1c019c1404661fef558092ac3a5ee9376daf&idProcessoDoc=98333180",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 9,
+      "data_hora": "20/06/2023 09:38:39",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=0f4c79f8fbbfc0d1a3535968d05b05bd16f79c43ffe1e901a46f1f03b3f5b5309c9e901a7dea1c019c1404661fef558092ac3a5ee9376daf&idProcessoDoc=94982632",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 10,
+      "data_hora": "20/06/2023 09:26:49",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ed5977a9743bdabea3535968d05b05bd16f79c43ffe1e901a46f1f03b3f5b5309c9e901a7dea1c019c1404661fef558092ac3a5ee9376daf&idProcessoDoc=94980535",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 11,
+      "data_hora": "06/12/2022 10:20:30",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=5fd2ab9707f3e1c0a3535968d05b05bd16f79c43ffe1e901a46f1f03b3f5b5309c9e901a7dea1c019c1404661fef558092ac3a5ee9376daf&idProcessoDoc=81901713",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08264648320228100040_002_07-03-2025_17-42-38_Sentença.html"
+  ],
+  "total_documentos": 10,
+  "total_baixados": 1
+}

@@ -1,0 +1,47 @@
+{
+  "processo": {
+    "numero": "0809913-95.2021.8.10.0029",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=1b5c99db376d520df2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 02:18:26"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "29/06/2025 19:06:50",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=546f0160afafeea5898addf89e29e61871ef6e28a2a23039e16c3d536adc4fda8a34dd2966f080a495c5c77b8df1bf22c9be488fc704b17a&idProcessoDoc=146359742",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08099139520218100029_000_29-06-2025_19-06-50_Sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "08/11/2023 11:54:37",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=85607fe54bd51978e0e89e16985ca47a7dfbfd9f39e85e9effd4a5b8c813fda823ae9a2870fa40275e696925ed3a137f3ffd0bd55a095166&idProcessoDoc=105826089",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "05/10/2022 11:41:34",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=a4ac31e73ae9addae0e89e16985ca47a7dfbfd9f39e85e9effd4a5b8c813fda823ae9a2870fa40275e696925ed3a137f3ffd0bd55a095166&idProcessoDoc=77067062",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "04/10/2021 11:21:15",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=bf7889fede9bb1a9e0e89e16985ca47a7dfbfd9f39e85e9effd4a5b8c813fda823ae9a2870fa40275e696925ed3a137f3ffd0bd55a095166&idProcessoDoc=53774788",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08099139520218100029_000_29-06-2025_19-06-50_Sentença.html"
+  ],
+  "total_documentos": 4,
+  "total_baixados": 1
+}

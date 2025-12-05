@@ -1,0 +1,79 @@
+{
+  "processo": {
+    "numero": "0804849-51.2023.8.10.0024",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=822c20a807248808f2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 01:33:47"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "22/08/2025 09:36:22",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=7ed6f6a61142e1bc1b18c4941056da1d3eb082613b52c292d4a1dec3f13ed45f9745d4e505a185bbe0a45a9fadd52d3d45f6405ce13755f8&idProcessoDoc=158077247",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08048495120238100024_000_22-08-2025_09-36-22_Sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "29/05/2025 14:15:32",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=dfcd5523d6a10b7578ffea2b3729c7073eb082613b52c292d4a1dec3f13ed45f9745d4e505a185bbe0a45a9fadd52d3d45f6405ce13755f8&idProcessoDoc=150008222",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "15/02/2025 22:01:36",
+      "tipo": "Diligencia (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=0148c21b5b95ef6178ffea2b3729c7073eb082613b52c292d4a1dec3f13ed45f9745d4e505a185bbe0a45a9fadd52d3d45f6405ce13755f8&idProcessoDoc=141421835",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "10/10/2024 17:31:15",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=1c202e7df1fde0fcacd6d4b5ceca76dc3eb082613b52c292d4a1dec3f13ed45f9745d4e505a185bbe0a45a9fadd52d3d45f6405ce13755f8&idProcessoDoc=131704518",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 4,
+      "data_hora": "02/09/2023 12:01:37",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=9945b47d3d0116420e4487fc5142da7e504c7ba7b490a5ea325135d2b6bc25c128cafdaac994e860a49e3de2228a665306b565a77efc80e5&idProcessoDoc=100628738",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "02/09/2023 10:45:51",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ccafdc464ce8935b0e4487fc5142da7e504c7ba7b490a5ea325135d2b6bc25c128cafdaac994e860a49e3de2228a665306b565a77efc80e5&idProcessoDoc=100627719",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "02/09/2023 10:42:31",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ce640d2f322e85960e4487fc5142da7e504c7ba7b490a5ea325135d2b6bc25c128cafdaac994e860a49e3de2228a665306b565a77efc80e5&idProcessoDoc=100627714",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "22/08/2023 16:11:50",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ca546562963eda800e4487fc5142da7e504c7ba7b490a5ea325135d2b6bc25c128cafdaac994e860a49e3de2228a665306b565a77efc80e5&idProcessoDoc=99709455",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08048495120238100024_000_22-08-2025_09-36-22_Sentença.html"
+  ],
+  "total_documentos": 8,
+  "total_baixados": 1
+}

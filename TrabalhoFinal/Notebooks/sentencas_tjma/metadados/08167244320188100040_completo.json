@@ -1,0 +1,111 @@
+{
+  "processo": {
+    "numero": "0816724-43.2018.8.10.0040",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=29990061ef523c9d10068274f1a29f427fdbaa041889d37b",
+    "timestamp": "2025-12-05 02:43:37"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "01/08/2025 15:11:59",
+      "tipo": "Ata de audiência com despacho, decisão ou sentença (Ata de audiência com despacho, decisão ou sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=40de7237c9f473345963c394267f7f9fe954be1f7421cc29c6f78ba8d53d3eb20208572c4b6ca2cfbed0fc365eb6be85e455437feead72d6&idProcessoDoc=156184415",
+      "eh_sentenca": true,
+      "eh_decisao": true,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08167244320188100040_000_01-08-2025_15-11-59_Ata de audiência com despacho, decisão ou sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "28/06/2025 20:44:25",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=687eb634a42ec1e2499f9eb0a5fd6f63e954be1f7421cc29c6f78ba8d53d3eb20208572c4b6ca2cfbed0fc365eb6be85e455437feead72d6&idProcessoDoc=152849247",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "24/06/2025 07:27:42",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=d3be62158c0f4e725963c394267f7f9fe954be1f7421cc29c6f78ba8d53d3eb20208572c4b6ca2cfbed0fc365eb6be85e455437feead72d6&idProcessoDoc=152275716",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "23/06/2025 13:02:50",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=c23a0e654b366bec5963c394267f7f9fe954be1f7421cc29c6f78ba8d53d3eb20208572c4b6ca2cfbed0fc365eb6be85e455437feead72d6&idProcessoDoc=152198586",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "19/06/2025 19:23:41",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=11eb2d7fe6010084c22e86bca0564130e954be1f7421cc29c6f78ba8d53d3eb20208572c4b6ca2cfbed0fc365eb6be85e455437feead72d6&idProcessoDoc=152058407",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "29/05/2025 11:13:46",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=95fa3d98687c76435963c394267f7f9fe954be1f7421cc29c6f78ba8d53d3eb20208572c4b6ca2cfbed0fc365eb6be85e455437feead72d6&idProcessoDoc=149654003",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "20/05/2024 15:51:34",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=afc6f5183b47b3a511c2b0ff12dc3f2ae954be1f7421cc29c6f78ba8d53d3eb20208572c4b6ca2cfbed0fc365eb6be85e455437feead72d6&idProcessoDoc=119745571",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "07/08/2023 08:33:42",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=e2a1e561303e359b739f369757fcf17949263e151cd374360b7d2e86c685aaefa732c78ab32ee43bb1d6e70e047202bafd825feefab0039f&idProcessoDoc=98512382",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 8,
+      "data_hora": "14/03/2023 11:04:08",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=1c720a33951cbb08739f369757fcf17949263e151cd374360b7d2e86c685aaefa732c78ab32ee43bb1d6e70e047202bafd825feefab0039f&idProcessoDoc=87729670",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 9,
+      "data_hora": "24/06/2020 15:51:10",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=6b53a657ca31abfd739f369757fcf17949263e151cd374360b7d2e86c685aaefa732c78ab32ee43bb1d6e70e047202bafd825feefab0039f&idProcessoDoc=32439537",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 10,
+      "data_hora": "22/01/2020 09:37:45",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=05b8cc2c9169ceac739f369757fcf17949263e151cd374360b7d2e86c685aaefa732c78ab32ee43bb1d6e70e047202bafd825feefab0039f&idProcessoDoc=27207422",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 11,
+      "data_hora": "17/01/2019 11:09:14",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=7bc1851b37df7df3739f369757fcf17949263e151cd374360b7d2e86c685aaefa732c78ab32ee43bb1d6e70e047202bafd825feefab0039f&idProcessoDoc=16629439",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08167244320188100040_000_01-08-2025_15-11-59_Ata de audiência com despacho, decisão ou sentença.html"
+  ],
+  "total_documentos": 12,
+  "total_baixados": 1
+}

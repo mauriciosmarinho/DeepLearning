@@ -1,0 +1,31 @@
+{
+  "processo": {
+    "numero": "0802435-41.2023.8.10.0037",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=b1adcbda986dff08f2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 00:35:11"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "22/05/2024 22:00:43",
+      "tipo": "INDEFERIMENTO - AUSÊNCIA DE RECOLHIMENTO DAS CUSTAS (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=4eabb20287d5268702f4963e26ba26379293ce6ec704df8ae0b0b3f7ffa5613f16eec83df78f512694aed1b2223a27e5fd5704f45371f870&idProcessoDoc=119814243",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08024354120238100037_000_22-05-2024_22-00-43_INDEFERIMENTO - AUSÊNCIA DE RECOLHIMENTO DAS CUSTA.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "22/01/2024 12:16:53",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ab957afac31d94d371435edf4f8388299293ce6ec704df8ae0b0b3f7ffa5613f16eec83df78f512694aed1b2223a27e5fd5704f45371f870&idProcessoDoc=110218419",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08024354120238100037_000_22-05-2024_22-00-43_INDEFERIMENTO - AUSÊNCIA DE RECOLHIMENTO DAS CUSTA.html"
+  ],
+  "total_documentos": 2,
+  "total_baixados": 1
+}

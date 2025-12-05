@@ -1,0 +1,39 @@
+{
+  "processo": {
+    "numero": "0000455-98.2010.8.10.0053",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=fd721f50bbafea17355ce6a9f3ef1f034d57a03ed2a1323a",
+    "timestamp": "2025-12-04 20:47:26"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "01/04/2025 10:27:58",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=1a20d961205373873cc78deb99827db2c01c4bce3566f182d8ee0d36cde6c0e21d3d5c7caba70b93ad39b89ed6191846ac04c02794612b7a&idProcessoDoc=145033904",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\00004559820108100053_000_01-04-2025_10-27-58_Sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "14/03/2024 04:06:45",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=fd511fc4a9d7f564f07770fbb28c9005c01c4bce3566f182d8ee0d36cde6c0e21d3d5c7caba70b93ad39b89ed6191846ac04c02794612b7a&idProcessoDoc=113816181",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "19/04/2023 17:34:26",
+      "tipo": "Termo de Migração (Termo de Migração)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=b0828e2aa44a28dbd96625859abad63a14c613d66013e7674789f8683223c9d09fd283d27024c31849b847e92471b47fcdd9e660901084f7&idProcessoDoc=90397121",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\00004559820108100053_000_01-04-2025_10-27-58_Sentença.html"
+  ],
+  "total_documentos": 3,
+  "total_baixados": 1
+}

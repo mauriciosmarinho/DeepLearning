@@ -1,0 +1,3 @@
+﻿id,data_hora,tipo,url,eh_sentenca,eh_decisao,arquivo_local
+0,27/11/2024 16:42:23,Sentença (Sentença),https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=cc0952a67e97204841480e7b693d51e9e9629d84805637e07bd97d3f3bb76f98ebe00a331edbe6127664a4b29e684f7e5fe521eae9d4f53a&idProcessoDoc=135603238,True,False,sentencas_tjma\pdfs\00039040520118100029_000_27-11-2024_16-42-23_Sentença.html
+1,05/08/2024 16:17:08,Despacho (Despacho),https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=6ad91fc415334b0575204c8ec854986de9629d84805637e07bd97d3f3bb76f98ebe00a331edbe6127664a4b29e684f7e5fe521eae9d4f53a&idProcessoDoc=125526782,False,False,

@@ -1,0 +1,47 @@
+{
+  "processo": {
+    "numero": "0000411-50.2008.8.10.0053",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=dd77be477afe17ff355ce6a9f3ef1f034d57a03ed2a1323a",
+    "timestamp": "2025-12-04 20:46:03"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "27/06/2025 09:41:46",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=95fe216259d1a6268f5bd8475d4d294f7d3e1123660be068b56b0821103ee53a99378951e1785c594e3287dc3941ea1b4d7cc61c755cb429&idProcessoDoc=152711736",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 1,
+      "data_hora": "22/05/2025 13:42:44",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=cb93e925ef405c6e04bea3b7600a14487d3e1123660be068b56b0821103ee53a99378951e1785c594e3287dc3941ea1b4d7cc61c755cb429&idProcessoDoc=149407696",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\00004115020088100053_001_22-05-2025_13-42-44_Sentença.html"
+    },
+    {
+      "id": 2,
+      "data_hora": "14/03/2025 09:44:27",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=3a2fdc4365f0d1458f5bd8475d4d294f7d3e1123660be068b56b0821103ee53a99378951e1785c594e3287dc3941ea1b4d7cc61c755cb429&idProcessoDoc=143351773",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "12/09/2024 17:47:57",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=bd1936e25ce695fe0d3403b6fd38c1df7d3e1123660be068b56b0821103ee53a99378951e1785c594e3287dc3941ea1b4d7cc61c755cb429&idProcessoDoc=129202325",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\00004115020088100053_001_22-05-2025_13-42-44_Sentença.html"
+  ],
+  "total_documentos": 4,
+  "total_baixados": 1
+}

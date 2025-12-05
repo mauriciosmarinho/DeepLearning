@@ -1,0 +1,139 @@
+{
+  "processo": {
+    "numero": "0807280-83.2018.8.10.0040",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=efbbac6901c4452910068274f1a29f427fdbaa041889d37b",
+    "timestamp": "2025-12-05 02:00:27"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "27/11/2025 09:18:37",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=2a93e1ab1fa14bf082845444ed5dd815ba90760121a52d798f2c7f283b652a9187813327339dc9e147dfb3e440db24231792cb50fe79fbe3&idProcessoDoc=166841451",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 1,
+      "data_hora": "01/10/2025 09:43:22",
+      "tipo": "Ementa (Ementa)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=0d3a9ca229c51b963a88d5e050381424ba90760121a52d798f2c7f283b652a9187813327339dc9e147dfb3e440db24231792cb50fe79fbe3&idProcessoDoc=164196554",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "01/10/2025 09:43:18",
+      "tipo": "Ementa (Ementa)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=3d8ee0bba22db53ff818d825ace4dfa8ba90760121a52d798f2c7f283b652a9187813327339dc9e147dfb3e440db24231792cb50fe79fbe3&idProcessoDoc=164196552",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "26/05/2025 14:18:32",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=3d8ee0bba22db53ff8787d754c059203ba90760121a52d798f2c7f283b652a9187813327339dc9e147dfb3e440db24231792cb50fe79fbe3&idProcessoDoc=164196547",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "27/03/2025 16:03:41",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=e8a155b06135cda74b2ea9863d49518fba90760121a52d798f2c7f283b652a9187813327339dc9e147dfb3e440db24231792cb50fe79fbe3&idProcessoDoc=144552060",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08072808320188100040_004_27-03-2025_16-03-41_Sentença.html"
+    },
+    {
+      "id": 5,
+      "data_hora": "10/01/2025 12:15:13",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=e22b57134d8b22833c61f0b465ce84c2ba90760121a52d798f2c7f283b652a9187813327339dc9e147dfb3e440db24231792cb50fe79fbe3&idProcessoDoc=138151265",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "23/08/2024 15:09:23",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=d47012a96449aa13f818d825ace4dfa8ba90760121a52d798f2c7f283b652a9187813327339dc9e147dfb3e440db24231792cb50fe79fbe3&idProcessoDoc=127331924",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "19/04/2024 10:23:47",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=e8e4878e942f5bea4715059178eebb68ba90760121a52d798f2c7f283b652a9187813327339dc9e147dfb3e440db24231792cb50fe79fbe3&idProcessoDoc=117302445",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 8,
+      "data_hora": "05/02/2024 15:56:02",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=a5699c5e1e8a80b21025ea37cd0cdebfba90760121a52d798f2c7f283b652a9187813327339dc9e147dfb3e440db24231792cb50fe79fbe3&idProcessoDoc=111310466",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 9,
+      "data_hora": "03/10/2023 12:55:19",
+      "tipo": "Ata de audiência com despacho, decisão ou sentença (Ata de audiência com despacho, decisão ou sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=4da481fd761baedc21ecb95170400ec70484c2151b7ceaf1b5c4d33fe68f0c85e158a7930660aa2871dfdb69bd663068dd0f2f2db757745d&idProcessoDoc=102960893",
+      "eh_sentenca": true,
+      "eh_decisao": true,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08072808320188100040_009_03-10-2023_12-55-19_Ata de audiência com despacho, decisão ou sentença.html"
+    },
+    {
+      "id": 10,
+      "data_hora": "12/09/2023 08:50:08",
+      "tipo": "Ata de audiência com despacho, decisão ou sentença (Ata de audiência com despacho, decisão ou sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=5206f3c9b22ae2d221ecb95170400ec70484c2151b7ceaf1b5c4d33fe68f0c85e158a7930660aa2871dfdb69bd663068dd0f2f2db757745d&idProcessoDoc=101188774",
+      "eh_sentenca": true,
+      "eh_decisao": true,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08072808320188100040_010_12-09-2023_08-50-08_Ata de audiência com despacho, decisão ou sentença.html"
+    },
+    {
+      "id": 11,
+      "data_hora": "09/06/2023 16:09:04",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=2750441e4cc42d1b21ecb95170400ec70484c2151b7ceaf1b5c4d33fe68f0c85e158a7930660aa2871dfdb69bd663068dd0f2f2db757745d&idProcessoDoc=94256837",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 12,
+      "data_hora": "22/03/2023 11:13:17",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=eac069464cbb39f621ecb95170400ec70484c2151b7ceaf1b5c4d33fe68f0c85e158a7930660aa2871dfdb69bd663068dd0f2f2db757745d&idProcessoDoc=88376330",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 13,
+      "data_hora": "20/09/2022 17:32:48",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=c8550f117e34201c21ecb95170400ec70484c2151b7ceaf1b5c4d33fe68f0c85e158a7930660aa2871dfdb69bd663068dd0f2f2db757745d&idProcessoDoc=76560354",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 14,
+      "data_hora": "18/05/2022 13:36:04",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=d18762603daea54b21ecb95170400ec70484c2151b7ceaf1b5c4d33fe68f0c85e158a7930660aa2871dfdb69bd663068dd0f2f2db757745d&idProcessoDoc=67182175",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08072808320188100040_004_27-03-2025_16-03-41_Sentença.html",
+    "sentencas_tjma\\pdfs\\08072808320188100040_009_03-10-2023_12-55-19_Ata de audiência com despacho, decisão ou sentença.html",
+    "sentencas_tjma\\pdfs\\08072808320188100040_010_12-09-2023_08-50-08_Ata de audiência com despacho, decisão ou sentença.html"
+  ],
+  "total_documentos": 15,
+  "total_baixados": 3
+}

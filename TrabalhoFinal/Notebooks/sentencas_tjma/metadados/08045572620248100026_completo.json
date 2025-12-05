@@ -1,0 +1,131 @@
+{
+  "processo": {
+    "numero": "0804557-26.2024.8.10.0026",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=fb43432c69815065f2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 01:24:58"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "01/04/2025 09:30:53",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=e1aa07dbd0b24ea6c7d5fed26c52445d283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=145036563",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08045572620248100026_000_01-04-2025_09-30-53_Sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "24/03/2025 11:31:02",
+      "tipo": "Ata de audiência no CEJUSC (Ata de audiência no CEJUSC)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=5c33bb70d0dfc4f7edbcb3bfbac0f11d283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=144168897",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08045572620248100026_001_24-03-2025_11-31-02_Ata de audiência no CEJUSC.html"
+    },
+    {
+      "id": 2,
+      "data_hora": "20/03/2025 09:52:06",
+      "tipo": "FRANÇA PAULA DOS REIS (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=6e626f73139b625396283660b30350a6283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=143913335",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "20/03/2025 09:50:50",
+      "tipo": "ORLANDO PAULA DOS REIS (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=8d6555cbbc23f5b990fdfd9ca64612a1283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=143912203",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "20/03/2025 09:45:53",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=6de7743e6be8514f96283660b30350a6283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=143911021",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "10/03/2025 18:23:18",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=e0f3c833e3a2f8fa2043ceacf7ba6a70283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=142914970",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "24/02/2025 14:23:59",
+      "tipo": "ALZEMIRA PAULA DOS REIS (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=b1246b33fa7644e590fdfd9ca64612a1283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=141921889",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "20/02/2025 16:35:21",
+      "tipo": "EDILSON PAULA DOS REIS (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=6660f22e431af913edbcb3bfbac0f11d283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=141876868",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 8,
+      "data_hora": "13/02/2025 14:19:02",
+      "tipo": "Certidão (Outras) (Certidão (Outras))",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=08c0901b89fdeabf96283660b30350a6283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=141272111",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 9,
+      "data_hora": "12/02/2025 13:51:46",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=f1d3bc25a972f8fd2a1c5c8e0c6486e0283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=141112486",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 10,
+      "data_hora": "02/12/2024 16:55:21",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=b51ac400ae277806edbcb3bfbac0f11d283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=136012968",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 11,
+      "data_hora": "16/09/2024 11:19:48",
+      "tipo": "Ata de audiência no CEJUSC (Ata de audiência no CEJUSC)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=1a3842ee42c1d48797a719c93ddb6c9a283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=129402671",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08045572620248100026_011_16-09-2024_11-19-48_Ata de audiência no CEJUSC.html"
+    },
+    {
+      "id": 12,
+      "data_hora": "03/09/2024 10:43:28",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=dc345075135514a797a719c93ddb6c9a283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=128316498",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 13,
+      "data_hora": "05/08/2024 11:48:25",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ce26f0166762619df7921ee5f3dd7d7c283463b75b06730cd19e2c5eeadf8c18d4ab8f9668332cbd739068103ede968604a321d32b3ee9ab&idProcessoDoc=125780711",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08045572620248100026_000_01-04-2025_09-30-53_Sentença.html",
+    "sentencas_tjma\\pdfs\\08045572620248100026_001_24-03-2025_11-31-02_Ata de audiência no CEJUSC.html",
+    "sentencas_tjma\\pdfs\\08045572620248100026_011_16-09-2024_11-19-48_Ata de audiência no CEJUSC.html"
+  ],
+  "total_documentos": 14,
+  "total_baixados": 3
+}

@@ -1,0 +1,47 @@
+{
+  "processo": {
+    "numero": "0812601-29.2024.8.10.0060",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=091deb1b6b9f74e5f2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 02:31:48"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "21/10/2025 11:47:33",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=8b2d64f9ed021e8966a4d033b7d53be45facec57600cbfed087ac5ef6094a5b39154de818f0409a293a9a507cb80b68017179d0e3b26ff94&idProcessoDoc=163297119",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 1,
+      "data_hora": "14/04/2025 13:46:21",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=a6e4052c90521dab384b2fc9b682360b5facec57600cbfed087ac5ef6094a5b39154de818f0409a293a9a507cb80b68017179d0e3b26ff94&idProcessoDoc=146238279",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08126012920248100060_001_14-04-2025_13-46-21_Sentença.html"
+    },
+    {
+      "id": 2,
+      "data_hora": "14/03/2025 13:36:58",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=2b155d6abd3cfd6f9cd96ee003aad7f85facec57600cbfed087ac5ef6094a5b39154de818f0409a293a9a507cb80b68017179d0e3b26ff94&idProcessoDoc=143394059",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "11/02/2025 09:51:32",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=3add3b7b02442723b45bd39934daa8a65facec57600cbfed087ac5ef6094a5b39154de818f0409a293a9a507cb80b68017179d0e3b26ff94&idProcessoDoc=140920324",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08126012920248100060_001_14-04-2025_13-46-21_Sentença.html"
+  ],
+  "total_documentos": 4,
+  "total_baixados": 1
+}

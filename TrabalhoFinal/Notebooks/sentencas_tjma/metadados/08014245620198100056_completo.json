@@ -1,0 +1,141 @@
+{
+  "processo": {
+    "numero": "0801424-56.2019.8.10.0056",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=1ebb9f000fc0552c12e59e5eaa87e9147fdbaa041889d37b",
+    "timestamp": "2025-12-04 23:48:35"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "19/11/2025 11:10:27",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=29efd83108c925d378f969ae8879bdf8ef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=166322057",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 1,
+      "data_hora": "17/11/2025 09:10:04",
+      "tipo": "JESSE CABRAL PRIMO (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=f7bd28748326b3d6e784070b3d5fcd8cef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=166018182",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "23/10/2025 09:55:23",
+      "tipo": "AUCINDIO LOPES DA SILVA (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=949bc0468e2a03e1dbe4064e13abce5eef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=163854094",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "17/10/2025 11:15:59",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=f0d61a010bfa9bf48d353ecbe296d58bef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=163334513",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "22/09/2025 18:07:31",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=96b0e61787b15ccce784070b3d5fcd8cef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=161030913",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08014245620198100056_004_22-09-2025_18-07-31_Sentença.html"
+    },
+    {
+      "id": 5,
+      "data_hora": "21/07/2025 09:14:49",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=f54f66e1864456e2022d248f1adacf0bef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=155038815",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "30/06/2025 10:37:42",
+      "tipo": "MARIA MARLENE DE ARAUJO LOPES (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=a1f84f38d297b098a3fe8082e602b78aef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=152897815",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "30/06/2025 10:35:57",
+      "tipo": "MARIA MARLENE DE ARAUJO LOPES (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=216b95b276db8e22a3fe8082e602b78aef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=152897805",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 8,
+      "data_hora": "28/04/2025 10:05:52",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=fef0a47ee6ad903d3d24e9ab390673fbef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=147124554",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08014245620198100056_008_28-04-2025_10-05-52_Sentença.html"
+    },
+    {
+      "id": 9,
+      "data_hora": "28/11/2024 08:00:42",
+      "tipo": "Ata de audiência com despacho, decisão ou sentença (Ata de audiência com despacho, decisão ou sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=afdd5c9d0a0ff9c42192ccf521c154fcef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=135608761",
+      "eh_sentenca": true,
+      "eh_decisao": true,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08014245620198100056_009_28-11-2024_08-00-42_Ata de audiência com despacho, decisão ou sentença.html"
+    },
+    {
+      "id": 10,
+      "data_hora": "18/09/2024 16:25:50",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=48215d37dab80836e784070b3d5fcd8cef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=129711661",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 11,
+      "data_hora": "30/07/2024 17:26:06",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=895e8c958a7fb1658d353ecbe296d58bef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=125387791",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 12,
+      "data_hora": "15/12/2023 17:50:21",
+      "tipo": "Sentença (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=c2d592872e3e8bc2e784070b3d5fcd8cef52c62aeb17c5e2d44e16ac6a540e823798233ca8469343a820d1ed3c9b8d8457d7ea8bd5efc710&idProcessoDoc=108818633",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08014245620198100056_012_15-12-2023_17-50-21_Sentença.html"
+    },
+    {
+      "id": 13,
+      "data_hora": "28/03/2023 16:38:15",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=18bf7f2d1381570129bc4a845efaeaa16c3ba5c1892e15171956eac9ce92bac0c77aab8b5bd0ac50bc8eb693a3d0590db34a661d35ada89e&idProcessoDoc=88916944",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 14,
+      "data_hora": "21/06/2022 12:59:48",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=f29dbf367141e6ae29bc4a845efaeaa16c3ba5c1892e15171956eac9ce92bac0c77aab8b5bd0ac50bc8eb693a3d0590db34a661d35ada89e&idProcessoDoc=69686576",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08014245620198100056_004_22-09-2025_18-07-31_Sentença.html",
+    "sentencas_tjma\\pdfs\\08014245620198100056_008_28-04-2025_10-05-52_Sentença.html",
+    "sentencas_tjma\\pdfs\\08014245620198100056_009_28-11-2024_08-00-42_Ata de audiência com despacho, decisão ou sentença.html",
+    "sentencas_tjma\\pdfs\\08014245620198100056_012_15-12-2023_17-50-21_Sentença.html"
+  ],
+  "total_documentos": 15,
+  "total_baixados": 4
+}

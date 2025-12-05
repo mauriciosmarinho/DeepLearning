@@ -1,0 +1,47 @@
+{
+  "processo": {
+    "numero": "0808637-96.2022.8.10.0060",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=fa519c96f6194e13f2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 02:09:15"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "08/03/2024 15:52:59",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=f3d1119d5623cb9c414edd191cd2020c1eeafa18642cdc3c3b93e33dcf61c48b04353f4e6feecd69da67bbd88e3208ca41926512a29df763&idProcessoDoc=114073758",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08086379620228100060_000_08-03-2024_15-52-59_Sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "05/02/2024 19:18:38",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=d6727b46e6290efa5417e538a0ba86f41eeafa18642cdc3c3b93e33dcf61c48b04353f4e6feecd69da67bbd88e3208ca41926512a29df763&idProcessoDoc=111358492",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 2,
+      "data_hora": "15/06/2023 21:01:45",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=509b034d04938b055eb2738335cffab9f0fa72eee264d7a7dc8ebc38f15b7be083e4a0989ed703ad55f969e722e8704b92ac3a5ee9376daf&idProcessoDoc=94668445",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "27/09/2022 09:50:28",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=e20b0f3e9e8702f25eb2738335cffab9f0fa72eee264d7a7dc8ebc38f15b7be083e4a0989ed703ad55f969e722e8704b92ac3a5ee9376daf&idProcessoDoc=77031096",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08086379620228100060_000_08-03-2024_15-52-59_Sentença.html"
+  ],
+  "total_documentos": 4,
+  "total_baixados": 1
+}

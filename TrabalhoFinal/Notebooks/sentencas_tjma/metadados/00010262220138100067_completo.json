@@ -1,0 +1,47 @@
+{
+  "processo": {
+    "numero": "0001026-22.2013.8.10.0067",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=7792ac7af1c3383b355ce6a9f3ef1f034d57a03ed2a1323a",
+    "timestamp": "2025-12-04 21:10:06"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "07/08/2025 13:17:53",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=5f3a8dee5c1b1e0175d055d4661d0f081b5060f4ebeafec5dd9b83babd025f5d834e6b743558a73122ae9cceb9ec23fd5010bcfbdd35633b&idProcessoDoc=155100282",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\00010262220138100067_000_07-08-2025_13-17-53_Sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "08/11/2024 20:03:56",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=72d9d00002cb8c3e97c62a60acf02f131b5060f4ebeafec5dd9b83babd025f5d834e6b743558a73122ae9cceb9ec23fd5010bcfbdd35633b&idProcessoDoc=134174077",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "26/04/2023 11:36:00",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=d48f65f73e539d44fc61e84351c799e46d4328745350d9673c2b312492e240c42ff869a821baca97189ea94f71b1691afe93805d0aa74759&idProcessoDoc=90833829",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "13/12/2021 14:19:58",
+      "tipo": "Termo de Migração (Termo de Migração)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=89277c9590d13da2fc61e84351c799e46d4328745350d9673c2b312492e240c42ff869a821baca97189ea94f71b1691afe93805d0aa74759&idProcessoDoc=52339051",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\00010262220138100067_000_07-08-2025_13-17-53_Sentença.html"
+  ],
+  "total_documentos": 4,
+  "total_baixados": 1
+}

@@ -1,0 +1,47 @@
+{
+  "processo": {
+    "numero": "0814080-20.2024.8.10.0040",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=7c04f5923ab47ecaf2459ae99139349a4d57a03ed2a1323a",
+    "timestamp": "2025-12-05 02:36:37"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "28/08/2025 16:59:47",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=b81775f2729429ba0ec7cca6978215ce390fc4788ec25b058f3d5f4d6a6da5edb6c5a793c63d6b7a59c8634683f805422f994433ec9ce32e&idProcessoDoc=158542881",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08140802020248100040_000_28-08-2025_16-59-47_Sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "21/03/2025 15:38:46",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=1ea44e317da4eb4d818b1747b7d0b839390fc4788ec25b058f3d5f4d6a6da5edb6c5a793c63d6b7a59c8634683f805422f994433ec9ce32e&idProcessoDoc=144095785",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 5,
+      "data_hora": "29/10/2024 14:11:58",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=edd4d8a2022d755eb73a2dcf16b0680e390fc4788ec25b058f3d5f4d6a6da5edb6c5a793c63d6b7a59c8634683f805422f994433ec9ce32e&idProcessoDoc=132930747",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 6,
+      "data_hora": "24/07/2024 20:16:31",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=605ee8570da17a36818b1747b7d0b839390fc4788ec25b058f3d5f4d6a6da5edb6c5a793c63d6b7a59c8634683f805422f994433ec9ce32e&idProcessoDoc=124953638",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08140802020248100040_000_28-08-2025_16-59-47_Sentença.html"
+  ],
+  "total_documentos": 4,
+  "total_baixados": 1
+}

@@ -1,0 +1,79 @@
+{
+  "processo": {
+    "numero": "0011903-68.2014.8.10.0040",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=17cfd729ee50c646355ce6a9f3ef1f034d57a03ed2a1323a",
+    "timestamp": "2025-12-04 22:14:53"
+  },
+  "documentos": [
+    {
+      "id": 1,
+      "data_hora": "11/11/2024 21:31:47",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=49f0f3cd833cfa5b1f3bae6c51254d6f9583dc48fc1fe5aae0c9b441170a540c76fdee1620da007118149e6809465ae22a702d4799f4a2b5&idProcessoDoc=134341186",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 2,
+      "data_hora": "07/03/2024 15:32:25",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=25c10593b23d4a777d575bb574e81ee19583dc48fc1fe5aae0c9b441170a540c76fdee1620da007118149e6809465ae22a702d4799f4a2b5&idProcessoDoc=113879180",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\00119036820148100040_002_07-03-2024_15-32-25_Sentença.html"
+    },
+    {
+      "id": 3,
+      "data_hora": "11/09/2023 15:37:39",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=991d182175542d7259adae60d95cd00d709865746ea2a369b6be9061a4a4b899b455239800dcd1175ca99e9fcee830d4fd825feefab0039f&idProcessoDoc=101105842",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "06/02/2023 15:21:10",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=4605e8844ea4845359adae60d95cd00d709865746ea2a369b6be9061a4a4b899b455239800dcd1175ca99e9fcee830d4fd825feefab0039f&idProcessoDoc=85091580",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "13/09/2022 10:23:20",
+      "tipo": "Certidão de Oficial de Justiça (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=f4f45cec8dca32a159adae60d95cd00d709865746ea2a369b6be9061a4a4b899b455239800dcd1175ca99e9fcee830d4fd825feefab0039f&idProcessoDoc=75918243",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "10/08/2022 16:15:41",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=d46645ba126f7e3359adae60d95cd00d709865746ea2a369b6be9061a4a4b899b455239800dcd1175ca99e9fcee830d4fd825feefab0039f&idProcessoDoc=73416294",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "22/06/2022 09:09:38",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=70be7eb16519a5d159adae60d95cd00d709865746ea2a369b6be9061a4a4b899b455239800dcd1175ca99e9fcee830d4fd825feefab0039f&idProcessoDoc=69751787",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 8,
+      "data_hora": "20/07/2021 09:21:58",
+      "tipo": "Termo de Migração (Termo de Migração)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=484fb3da441bbbb559adae60d95cd00d709865746ea2a369b6be9061a4a4b899b455239800dcd1175ca99e9fcee830d4fd825feefab0039f&idProcessoDoc=49325437",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\00119036820148100040_002_07-03-2024_15-32-25_Sentença.html"
+  ],
+  "total_documentos": 8,
+  "total_baixados": 1
+}

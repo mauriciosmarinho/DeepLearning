@@ -1,0 +1,47 @@
+{
+  "processo": {
+    "numero": "0801671-72.2024.8.10.0117",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=6a8973ddb88fc85a355ce6a9f3ef1f034d57a03ed2a1323a",
+    "timestamp": "2025-12-04 23:54:30"
+  },
+  "documentos": [
+    {
+      "id": 0,
+      "data_hora": "30/01/2025 16:00:50",
+      "tipo": "Ata de audiência com despacho, decisão ou sentença (Ata de audiência com despacho, decisão ou sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=7e5676dec468157cb7ffb53d27420192b323b2cdb5756d2bd70751dcb35c57e458c47c2558d36d1cd9598385bd0d30219268742f24fd1ac5&idProcessoDoc=139727452",
+      "eh_sentenca": true,
+      "eh_decisao": true,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08016717220248100117_000_30-01-2025_16-00-50_Ata de audiência com despacho, decisão ou sentença.html"
+    },
+    {
+      "id": 1,
+      "data_hora": "11/12/2024 15:23:42",
+      "tipo": "Decisão (Decisão)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=2367f07a856ae00c8881c3745eca57dab323b2cdb5756d2bd70751dcb35c57e458c47c2558d36d1cd9598385bd0d30219268742f24fd1ac5&idProcessoDoc=136656236",
+      "eh_sentenca": false,
+      "eh_decisao": true
+    },
+    {
+      "id": 2,
+      "data_hora": "27/09/2024 19:12:54",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=919661304dbae5c6b482591826981ec9b323b2cdb5756d2bd70751dcb35c57e458c47c2558d36d1cd9598385bd0d30219268742f24fd1ac5&idProcessoDoc=130577908",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "02/07/2024 08:31:32",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=8a1751d41032d8bcd2a7db49e95e6617b323b2cdb5756d2bd70751dcb35c57e458c47c2558d36d1cd9598385bd0d30219268742f24fd1ac5&idProcessoDoc=123005238",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08016717220248100117_000_30-01-2025_16-00-50_Ata de audiência com despacho, decisão ou sentença.html"
+  ],
+  "total_documentos": 4,
+  "total_baixados": 1
+}

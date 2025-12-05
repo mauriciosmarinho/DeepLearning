@@ -1,0 +1,87 @@
+{
+  "processo": {
+    "numero": "0801743-85.2017.8.10.0026",
+    "url_detalhes": "https://pje.tjma.jus.br/pje/ConsultaPublica/DetalheProcessoConsultaPublica/listView.seam?ca=a3c52998971fa93212e59e5eaa87e9147fdbaa041889d37b",
+    "timestamp": "2025-12-04 23:58:44"
+  },
+  "documentos": [
+    {
+      "id": 1,
+      "data_hora": "28/11/2024 10:43:03",
+      "tipo": "Sentença (Sentença)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=66752d6951df2e75f57fab88133722f1b65748fab79bb2e1f3c728e6fddbd7d35523a3511cd34c157f24972e262e57aca40e8ef9998be99c&idProcessoDoc=135608494",
+      "eh_sentenca": true,
+      "eh_decisao": false,
+      "arquivo_local": "sentencas_tjma\\pdfs\\08017438520178100026_001_28-11-2024_10-43-03_Sentença.html"
+    },
+    {
+      "id": 2,
+      "data_hora": "12/11/2024 13:45:01",
+      "tipo": "MARIA DA PAIXÃO MOURA BARREIRA (Certidão de Oficial de Justiça)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=fc1f0cda1350166120bc688aaca0d3acb65748fab79bb2e1f3c728e6fddbd7d35523a3511cd34c157f24972e262e57aca40e8ef9998be99c&idProcessoDoc=134453127",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 3,
+      "data_hora": "06/11/2024 16:23:06",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ac101af22e0512a2f57fab88133722f1b65748fab79bb2e1f3c728e6fddbd7d35523a3511cd34c157f24972e262e57aca40e8ef9998be99c&idProcessoDoc=133861350",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 4,
+      "data_hora": "04/09/2024 17:53:07",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=12a20a1f368c477cf4a4092aa2db93d9b65748fab79bb2e1f3c728e6fddbd7d35523a3511cd34c157f24972e262e57aca40e8ef9998be99c&idProcessoDoc=128412414",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 5,
+      "data_hora": "26/02/2024 14:00:37",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=d9c5a2cbe2ae58b7f57fab88133722f1b65748fab79bb2e1f3c728e6fddbd7d35523a3511cd34c157f24972e262e57aca40e8ef9998be99c&idProcessoDoc=112921601",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 6,
+      "data_hora": "18/01/2024 02:20:06",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=db0c6a0da75fb8b1de27b9f0a8d2a0ddb65748fab79bb2e1f3c728e6fddbd7d35523a3511cd34c157f24972e262e57aca40e8ef9998be99c&idProcessoDoc=110015482",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 7,
+      "data_hora": "27/08/2022 13:17:23",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=ed7b994f493b504e70b2857a3d8bcdaed885bcef658c262b956765887d786af2ee7865a9bc960b88fdf9ed7971eb310e94fd8acb1e100f50&idProcessoDoc=74708439",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 8,
+      "data_hora": "26/10/2021 11:09:42",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=9b7f8d9b1d2ade2f70b2857a3d8bcdaed885bcef658c262b956765887d786af2ee7865a9bc960b88fdf9ed7971eb310e94fd8acb1e100f50&idProcessoDoc=55038385",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    },
+    {
+      "id": 9,
+      "data_hora": "19/09/2017 09:18:45",
+      "tipo": "Despacho (Despacho)",
+      "url": "https://pje.tjma.jus.br:443/pje/ConsultaPublica/DetalheProcessoConsultaPublica/documentoSemLoginHTML.seam?ca=484729b07a4da9dce7b1dd0df8c10d5ecb69a89b1c057b397ab67fd739efa47b8a303733f0cbc7d99cb5a59e060531fc211570214b705186&idProcessoDoc=7928165",
+      "eh_sentenca": false,
+      "eh_decisao": false
+    }
+  ],
+  "arquivos_baixados": [
+    "sentencas_tjma\\pdfs\\08017438520178100026_001_28-11-2024_10-43-03_Sentença.html"
+  ],
+  "total_documentos": 9,
+  "total_baixados": 1
+}
